@@ -1,14 +1,12 @@
 <?php
 
- #clock{
-  float: right;
-  padding-left: 30px;
-  padding-right: 30px;
-  background-color:mediumblue;
-  color: white;
-  font-family: "Comic Sans MS", cursive, sans-serif;
-  word-spacing: 10px;
-}
+
+<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+					            <span class="sr-only">Toggle navigation</span>
+					            <span class="icon-bar"></span>
+					            <span class="icon-bar"></span>
+					            <span class="icon-bar"></span>
+					          </button>
 function headersection() {
 echo "<!-- InstanceEndEditable --><!-- InstanceBeginEditable name=\"head\" --><!-- InstanceEndEditable -->\n"; 
 echo "<style type=\"text/css\" media=\"all\">\n"; 
