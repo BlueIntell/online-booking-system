@@ -39,13 +39,16 @@ leftmenuitem();
 	<p>VB.Net (Basic & C#)</p>
 	<p>Graphics Design (Photoshop)</p>
 	<br />
-	<h2>Company Services</h2>
-	<p>Web Design</p>
-	<p>Custom Database management software</p>
-	<p>Desktop Apllication development</p>
-	<p>Graphics Design</p>
-	<p>Logo Design & Ideas</p>
-	<p>Many more...</p>
+
+ #clock{
+  float: right;
+  padding-left: 30px;
+  padding-right: 30px;
+  background-color:mediumblue;
+  color: white;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  word-spacing: 10px;
+}
 	
 	<h4>For Freelance Please contact with us</h4>
 	</div>

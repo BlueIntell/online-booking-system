@@ -1,11 +1,17 @@
 <?php
+
+ #clock{
+  float: right;
+  padding-left: 30px;
+  padding-right: 30px;
+  background-color:mediumblue;
+  color: white;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  word-spacing: 10px;
+}
 function headersection() {
 echo "<!-- InstanceEndEditable --><!-- InstanceBeginEditable name=\"head\" --><!-- InstanceEndEditable -->\n"; 
 echo "<style type=\"text/css\" media=\"all\">\n"; 
-echo "<!--\n"; 
-echo "@import url(\"styles.css\");\n"; 
-echo "-->\n"; 
-echo "</style>\n"; 
 echo "<style type=\"text/css\" media=\"print\">\n"; 
 echo "<!--\n"; 
 echo "This is the stylesheet for web page printing. It is optional.\n"; 
