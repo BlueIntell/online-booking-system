@@ -9,13 +9,7 @@ include("common.php");
 <!-- InstanceBeginEditable name="metatags" -->
 <title>Contact Us</title>
 <meta name="Keywords" content="" />
-<meta name="Description" content="" />
-<!-- InstanceEndEditable --><!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
-<?php
-headersection();
-topnavigator();
-?>
-<div id="content">
+<met
 	<h2>About ME!</h2>
 	<h3>Personal Information</h3>
     <h2>Kowshar Ahmed</h2>

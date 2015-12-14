@@ -46,20 +46,7 @@
     	if ($returnLine > -1) {
     		$sFileData[$returnLine] = $sKey."=".$sValue;
     		for ($i = 0; $i < count($sFileData); $i++) {
-    			$newfile .= $sFileData[$i]."\r\n";
-    		}
-    	}
-    	else {
-    		if ($sectionStart > -1) {
-    			for ($i = 0; $i < count($sFileData); $i++) {
-    				i\n";
-    		}
-    	}
-    	fclose($sFileHandle);
-    	$sFileHandle = fopen($sFilename, "w");
-    	if (!$sFileHandle) {
-    		die("<b>Error:</b> Unable to open file ".$sFilename." with write access.");
-    	}
+    			$
     	$sFileWrite = fwrite($sFileHandle, trim($newfile));
     	if ($sFileWrite === FALSE) {
     		die("<b>Error:</b> Unable to write data to file ".$sFilename.".");

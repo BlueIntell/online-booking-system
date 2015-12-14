@@ -31,17 +31,6 @@ google_ad_height = 600;
 <script type="text/javascript"
 src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
- </div><!-- InstanceEndEditable --> </div>
-    <div id="content">
-      <h2>iTech Video Converter 2.0.0</h2>
-      <img src="images/vidconv.gif" alt="iTech Video Converter 2.0.0" class="fltlft" />
-      <p>iTech Video Converter is a free Video Conversion software capable to convert video files between AVI, MPEG1, MPEG2, DVD, WMV, ASF, MOV, 3GP, 3G2 & FLV formats. You get a lot of control over the files you're converting, including the ability to change screen resolution, audio format, and frame rate. It is the fastest video converting software. Just one click to convert with beautiful user interface. Supports drag & drop.</p>
-<p><a href="#">Learn More</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Download</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#">System Requirements</a></p>
-<script type="text/javascript"><!--
-google_ad_client = "pub-7526690253327491";<div id="content">
-  <h2>About ME!</h2>
-  <h3>Personal Information</h3>
-    <h2>Kowshar Ahmed</h2>
   <h3>CEO & Chief programmer of iTech System</h3>
     <p>Date of Birth: 12 June 1983</p>
     <p>Nationality: Bangladeshi</p>

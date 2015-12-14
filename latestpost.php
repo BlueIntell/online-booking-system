@@ -14,12 +14,7 @@ function latestuser() {
 	<br />
 	<h2>Technical Skills and Experiences</h2>
 	<p>PHP</p>
-	<p>SQL</p>
-	<p>HTML</p>
-	<p>CSS</p>
-	<p>Visual Basic 6.0</p>
-	<p>VB.Net (Basic & C#)</p>
-	<p>Graphics Design (Photoshop)</p>
+	)</p>
 	<br />
 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
 					            <span class="sr-only">Toggle navigation</span>

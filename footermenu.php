@@ -8,11 +8,7 @@ e<div id="content">
 	<h3>Personal Information</h3>
     <h2>Kowshar Ahmed</h2>
 	<h3>CEO & Chief programmer of iTech System</h3>
-    <p>Date of Birth: 12 June 1983</p>
-    <p>Nationality: Bangladeshi</p>
-	<br />
-	<h2>Technical Skills and Experiences</h2>
-	<p>PHP</p>
+    <p>D
 	<p>SQL</p>
 	<p>HTML</p>
 	<p>CSS</p>

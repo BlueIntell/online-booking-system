@@ -4,12 +4,7 @@ echo "<li><a target=\"_bank\" href=\"http://www.i-tech-system.com/\">iTech Syste
 echo "<li><a target=\"_bank\" href=\"http://www.i-tech-system.com/forum\">Support Forum</a></li>";
 echo "<li><a target=\"_b<div id="content">
 	<h2>About ME!</h2>
-	<h3>Personal Information</h3>
-    <h2>Kowshar Ahmed</h2>
-	<h3>CEO & Chief programmer of iTech System</h3>
-    <p>Date of Birth: 12 June 1983</p>
-    <p>Natio
-	<br />
+	<h3>Personal Informat
 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
 					            <span class="sr-only">Toggle navigation</span>
 					            <span class="icon-bar"></span>

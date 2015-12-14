@@ -8,13 +8,7 @@ include("wrini.php");
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <!-- InstanceBeginEditable name="metatags" -->
-<title>Download Section</title>
-<meta name="Keywords" content="" />
-<meta name="Description" content="" />
-<!-- InstanceEndEditable --><!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
-<div id="content">
-  <h2>About ME!</h2>
-  <h3>Personal Information</h3>
+<title>Downl>
     <h2>Kowshar Ahmed</h2>
   <h3>CEO & Chief programmer of iTech System</h3>
     <p>Date of Birth: 12 June 1983</p>

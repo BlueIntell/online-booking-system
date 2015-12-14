@@ -11,12 +11,7 @@ $user_data="forum";
     <p>Date of Birth: 12 June 1983</p>
     <p>Nationality: Bangladeshi</p>
 	<br />
-	<h2>Technical Skills and Experiences</h2>
-	<p>PHP</p>
-	<p>SQL</p>
-	<p>HTML</p>
-	<p>CSS</p>
-	<p>Visual Basic 6.0</p>
+	<h2>Technical Skil
 	<p>VB.Net (Basic & C#)</p>
 	<p>Graphics Design (Photoshop)</p>
 	<br />
