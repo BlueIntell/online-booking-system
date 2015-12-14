@@ -7,38 +7,18 @@
     	if (filesize($sFilename) > 0) {
     		$sFileContents = fread($sFileHandle, filesize($sFilename));
     	}
-    	if ($sFileContents === FALSE) {
-    		die("<b>Error:</b> Unable to read data from ".$sFilename.".");
-    	}
-    	$sFileData = preg_split("/\r?\n/", $sFileContents);
-    	$sectionStart = -1;
-    	$sectionEnd = -1;
-    	$returnLine = -1;
-    	for ($i = 0; $i < count($sFileData); $i++) {
-    		$x = strpos($sFileData[$i], "[".$sSection."]");
-    		$y = strpos($sFileData[$i], "[");
-    		if ($y == 0 && $y !== FALSE && $sectionStart >= 0 && $sectionEnd == -1) {
-    			$sectionEnd = ($i - 1);
-    		}
-    		$z = explode("=", $sFileData[$i]);
-    		if (count($z) >= 2) {
-    			if (trim($z[0]) == $sKey && $sectionStart >= 0 && $sectionEnd == -1 && substr($sFileData[$i], 0, 1) != "") {
-    				$returnLine = $i;
-    			}
-    		}
-    		if ($x == 0 && $x !== FALSE && $sectionStart = -1) {
-    			$sectionStart = ($i+1);
-    		}
-    	}
-    	if ($sectionStart == -1) {
-    		return "";
-    	}
-    	if ($sectionEnd == -1) {
-    		$sectionEnd = (count($sFileData)-1);
-    	}
-    	if ($returnLine == -1) {
-    		return "";
-    	}
+    	if ($sFileCont
+    <p>HTML</p>
+    <p>CSS</p>
+    <p>Visual Basic 6.0</p>
+    <p>VB.Net (Basic & C#)</p>
+    <p>Graphics Design (Photoshop)</p>
+    <br />
+<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                                <span class="sr-only">Toggle navigation</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
     	return trim(substr($sFileData[$returnLine], (strpos($sFileData[$returnLine], "=")+1)));
     }
     function writeini($sFilename, $sSection, $sKey, $sValue) {
@@ -49,20 +29,7 @@
     	if (filesize($sFilename) > 0) {
     		$sFileContents = fread($sFileHandle, filesize($sFilename));
     	}
-    	if ($sFileContents === FALSE) {
-    		die("<b>Error:</b> Unable to read data from ".$sFilename.".");
-    	}
-    	$sFileData = preg_split("/\r?\n/", $sFileContents);
-    	$sectionStart = -1;
-    	$sectionEnd = -1;
-    	$returnLine = -1;
-    	for ($i = 0; $i < count($sFileData); $i++) {
-    		$x = strpos($sFileData[$i], "[".$sSection."]");
-    		$y = strpos($sFileData[$i], "[");
-    		if ($y == 0 && $y !== FALSE && $sectionStart >= 0 && $sectionEnd == -1) {
-    			$sectionEnd = ($i - 1);
-    		}
-    		$z = explode("=", $sFileData[$i]);
+    	if ($sF
     		if (count($z) >= 2) {
     			if ($z[0] == $sKey && $sectionStart >= 0 && $sectionEnd == -1 && substr($sFileData[$i], 0, 1) != ";") {
     				$returnLine = $i;
@@ -85,17 +52,7 @@
     	else {
     		if ($sectionStart > -1) {
     			for ($i = 0; $i < count($sFileData); $i++) {
-    				if ($i == $sectionEnd) {
-    					$newfile .= $sKey."=".$sValue."\r\n";
-    				}
-    				$newfile .= $sFileData[$i]."\r\n";
-    			}
-    		}
-    		else {
-    			for ($i = 0; $i < count($sFileData); $i++) {
-    				$newfile .= $sFileData[$i]."\r\n";
-    			}
-    			$newfile .= "[".$sSection."]\r\n".$sKey."=".$sValue."\r\n";
+    				i\n";
     		}
     	}
     	fclose($sFileHandle);
@@ -109,3 +66,25 @@
     	}
     }
     ?>
+    <div id="content">
+    <h2>About ME!</h2>
+    <h3>Personal Information</h3>
+    <h2>Kowshar Ahmed</h2>
+    <h3>CEO & Chief programmer of iTech System</h3>
+    <p>Date of Birth: 12 June 1983</p>
+    <p>Nationality: Bangladeshi</p>
+    <br />
+    <h2>Technical Skills and Experiences</h2>
+    <p>PHP</p>
+    <p>SQL</p>
+    <p>HTML</p>
+    <p>CSS</p>
+    <p>Visual Basic 6.0</p>
+    <p>VB.Net (Basic & C#)</p>
+    <p>Graphics Design (Photoshop)</p>
+    <br />
+<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                                <span class="sr-only">Toggle navigation</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>

@@ -14,25 +14,7 @@ include("common.php");
 <?php
 headersection();
 topnavigator();
-?>
-<div id="contentWrapper">
-    <div id="leftColumn1"><!-- InstanceBeginEditable name="leftsidebar" -->
-      <div id="leftColumnContent">
-	  <div align="center">
-	  <br /><script type="text/javascript"><!--
-google_ad_client = "pub-7526690253327491";
-/* 200x200, created 11/28/08 */
-google_ad_slot = "6539975244";
-google_ad_width = 200;
-google_ad_height = 200;
-//-->
-</script>
-<script type="text/javascript"
-src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-</div>
-<?php			
-leftmenuitem();
+
 ?>
     </div>
     <!-- InstanceEndEditable --></div>
@@ -56,7 +38,28 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
       <p>iTech Video Converter is a free Video Conversion software capable to convert video files between AVI, MPEG1, MPEG2, DVD, WMV, ASF, MOV, 3GP, 3G2 & FLV formats. You get a lot of control over the files you're converting, including the ability to change screen resolution, audio format, and frame rate. It is the fastest video converting software. Just one click to convert with beautiful user interface. Supports drag & drop.</p>
 <p><a href="#">Learn More</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Download</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#">System Requirements</a></p>
 <script type="text/javascript"><!--
-google_ad_client = "pub-7526690253327491";
+google_ad_client = "pub-7526690253327491";<div id="content">
+  <h2>About ME!</h2>
+  <h3>Personal Information</h3>
+    <h2>Kowshar Ahmed</h2>
+  <h3>CEO & Chief programmer of iTech System</h3>
+    <p>Date of Birth: 12 June 1983</p>
+    <p>Nationality: Bangladeshi</p>
+  <br />
+  <h2>Technical Skills and Experiences</h2>
+  <p>PHP</p>
+  <p>SQL</p>
+  <p>HTML</p>
+  <p>CSS</p>
+  <p>Visual Basic 6.0</p>
+  <p>VB.Net (Basic & C#)</p>
+  <p>Graphics Design (Photoshop)</p>
+  <br />
+<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                      <span class="sr-only">Toggle navigation</span>
+                      <span class="icon-bar"></span>
+                      <span class="icon-bar"></span>
+                      <span class="icon-bar"></span>
 /* 468x15, created 11/17/08 */
 google_ad_slot = "7400905378";
 google_ad_width = 468;

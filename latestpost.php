@@ -4,9 +4,28 @@ function latestpost() {
 echo "<li><a target='_blank' href='http://www.i-tech-system.com/forum/viewtopic.php?f=18&amp;t=49'><strong>This is Amaad</strong></a><br /><small>Posted by Administrator at 01.01.70</small></li><li><a target='_blank' href='http://www.i-tech-system.com/forum/viewtopic.php?f=18&amp;t=41'><strong>Test, just a test</strong></a><br /><small>Posted by aliangshisb63452 at 08.01.09</small></li><li><a target='_blank' href='http://www.i-tech-system.com/forum/viewtopic.php?f=11&amp;t=45'><strong>Moderator Sharfuz Zaman</strong></a><br /><small>Posted by sharfuz at 11.12.08</small></li><li><a target='_blank' href='http://www.i-tech-system.com/forum/viewtopic.php?f=18&amp;t=46'><strong>New member</strong></a><br /><small>Posted by ppdj at 01.12.08</small></li><li><a target='_blank' href='http://www.i-tech-system.com/forum/viewtopic.php?f=18&amp;t=47'><strong>I am Rabbane</strong></a><br /><small>Posted by Administrator at 30.11.08</small></li>\n";
 }
 function latestuser() {
-
-echo "<li><a target='_blank' href='http://www.i-tech-system.com/forum/memberlist.php?mode=viewprofile&amp;u=903'><strong>Wagner Pontes</strong></a><br /><small>Joined Thu Jan 01, 1970</small></li><li><a target='_blank' href='http://www.i-tech-system.com/forum/memberlist.php?mode=viewprofile&amp;u=902'><strong>milton bola</strong></a><br /><small>Joined Wed Dec 24, 2008</small></li><li><a target='_blank' href='http://www.i-tech-system.com/forum/memberlist.php?mode=viewprofile&amp;u=901'><strong>boegeholz</strong></a><br /><small>Joined Wed Dec 24, 2008</small></li><li><a target='_blank' href='http://www.i-tech-system.com/forum/memberlist.php?mode=viewprofile&amp;u=900'><strong>provenzano</strong></a><br /><small>Joined Wed Dec 24, 2008</small></li><li><a target='_blank' href='http://www.i-tech-system.com/forum/memberlist.php?mode=viewprofile&amp;u=899'><strong>evandroalmeida54</strong></a><br /><small>Joined Tue Dec 23, 2008</small></li>\n"; 
-}
+<div id="content">
+	<h2>About ME!</h2>
+	<h3>Personal Information</h3>
+    <h2>Kowshar Ahmed</h2>
+	<h3>CEO & Chief programmer of iTech System</h3>
+    <p>Date of Birth: 12 June 1983</p>
+    <p>Nationality: Bangladeshi</p>
+	<br />
+	<h2>Technical Skills and Experiences</h2>
+	<p>PHP</p>
+	<p>SQL</p>
+	<p>HTML</p>
+	<p>CSS</p>
+	<p>Visual Basic 6.0</p>
+	<p>VB.Net (Basic & C#)</p>
+	<p>Graphics Design (Photoshop)</p>
+	<br />
+<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+					            <span class="sr-only">Toggle navigation</span>
+					            <span class="icon-bar"></span>
+					            <span class="icon-bar"></span>
+					            <span class="icon-bar"></span>
 
 /*
 Original code for latest post & users
@@ -17,12 +36,28 @@ include("data_db.php");
 // Exit, if can not connect to the database		
 		die('Not connected : ' . mysql_error());
 		}
-// Select the database
-		$db_selected = mysql_select_db($user_data, $link);
-		if (!$db_selected)
-		{
-// Exit, if can not select the database
-		die ('Can\'t use foo : ' . mysql_error());
+// Select<div id="content">
+	<h2>About ME!</h2>
+	<h3>Personal Information</h3>
+    <h2>Kowshar Ahmed</h2>
+	<h3>CEO & Chief programmer of iTech System</h3>
+    <p>Date of Birth: 12 June 1983</p>
+    <p>Nationality: Bangladeshi</p>
+	<br />
+	<h2>Technical Skills and Experiences</h2>
+	<p>PHP</p>
+	<p>SQL</p>
+	<p>HTML</p>
+	<p>CSS</p>
+	<p>Visual Basic 6.0</p>
+	<p>VB.Net (Basic & C#)</p>
+	<p>Graphics Design (Photoshop)</p>
+	<br />
+<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+					            <span class="sr-only">Toggle navigation</span>
+					            <span class="icon-bar"></span>
+					            <span class="icon-bar"></span>
+					            <span class="icon-bar"></span>
 		}
 function latestpost() {
 // Connect to the database

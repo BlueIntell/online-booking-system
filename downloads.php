@@ -12,20 +12,28 @@ include("wrini.php");
 <meta name="Keywords" content="" />
 <meta name="Description" content="" />
 <!-- InstanceEndEditable --><!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
-<?php
-headersection();
-topnavigator();
-?>
-<div id="contentWrapper">
-    <div id="leftColumn1"><!-- InstanceBeginEditable name="leftsidebar" -->
-      <div id="leftColumnContent">
-<CENTER>
-	  <br /><script type="text/javascript"><!--
-google_ad_client = "pub-7526690253327491";
-/* 200x200, created 11/28/08 */
-google_ad_slot = "6539975244";
-google_ad_width = 200;
-google_ad_height = 200;
+<div id="content">
+  <h2>About ME!</h2>
+  <h3>Personal Information</h3>
+    <h2>Kowshar Ahmed</h2>
+  <h3>CEO & Chief programmer of iTech System</h3>
+    <p>Date of Birth: 12 June 1983</p>
+    <p>Nationality: Bangladeshi</p>
+  <br />
+  <h2>Technical Skills and Experiences</h2>
+  <p>PHP</p>
+  <p>SQL</p>
+  <p>HTML</p>
+  <p>CSS</p>
+  <p>Visual Basic 6.0</p>
+  <p>VB.Net (Basic & C#)</p>
+  <p>Graphics Design (Photoshop)</p>
+  <br />
+<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                      <span class="sr-only">Toggle navigation</span>
+                      <span class="icon-bar"></span>
+                      <span class="icon-bar"></span>
+                      <span class="icon-bar"></span>
 //-->
 </script>
 <script type="text/javascript"

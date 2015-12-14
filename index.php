@@ -12,15 +12,28 @@
 					echo "<fieldset>\n";
 					echo "<h4>LOGIN FORM</h4>";					
 					echo "<div id=\"login\" >\n"; 
-					echo "<form id=\"form1\" method=\"post\" action=\"forum/ucp.php\" enctype=\"multipart/form-data\">\n"; 
-					echo "<label for=\"inputtext1\">USER NAME</label>\n"; 
-					echo "<input onfocus=\"this.value=''\" value=\"User Name\" id=\"inputtext1\" type=\"text\" name=\"username\" value=\"\" />\n"; 
-					echo "<label for=\"inputtext2\">PASSWORD</label>\n"; 
-					echo "<input onfocus=\"this.value=''\" value=\"password\" id=\"inputtext2\" type=\"password\" name=\"password\" value=\"\" />\n"; 
-					echo "<input type=\"hidden\" name=\"redirect\" value=\"#\" />\n"; 
-					echo "<h3><input id=\"autologin\" type=\"checkbox\" name=\"autologin\" value=\"autologin\" />Log me on automatically</h3>\n"; 
-					echo "<input id=\"inputsubmit1\" type=\"submit\" name=\"login\" value=\"LOGIN\" />\n"; 
-					echo "</form>"; 
+					ech<div id="content">
+	<h2>About ME!</h2>
+	<h3>Personal Information</h3>
+    <h2>Kowshar Ahmed</h2>
+	<h3>CEO & Chief programmer of iTech System</h3>
+    <p>Date of Birth: 12 June 1983</p>
+    <p>Nationality: Bangladeshi</p>
+	<br />
+	<h2>Technical Skills and Experiences</h2>
+	<p>PHP</p>
+	<p>SQL</p>
+	<p>HTML</p>
+	<p>CSS</p>
+	<p>Visual Basic 6.0</p>
+	<p>VB.Net (Basic & C#)</p>
+	<p>Graphics Design (Photoshop)</p>
+	<br />
+<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+					            <span class="sr-only">Toggle navigation</span>
+					            <span class="icon-bar"></span>
+					            <span class="icon-bar"></span>
+					            <span class="icon-bar"></span>
 					echo "<div class=\"forgot\">\n"; 
 					echo "<ul>"; 
 					echo "<li><a href=\"#\">I forgot my password</a></li>\n"; 
