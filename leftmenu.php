@@ -9,7 +9,8 @@ echo '<ul clas
 	<h3>CEO & Chief programmer of iTech System</h3>
     <p>Date of Birth: 12 June 1983</p>
     <p>Nationality: Bangladeshi</p>
-
+	<p>Visual Basic 6.0</p>
+	<p>VB.Net (Basic & C#)</p>
 	<p>Graphics Design (Photoshop)</p>
 	<br />
 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">

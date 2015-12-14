@@ -11,6 +11,8 @@ e<div id="content">
     <p>D
 	<p>SQL</p>
 	<p>HTML</p>
+		<p>Visual Basic 6.0</p>
+	<p>VB.Net (Basic & C#)</p>
 	<p>CSS</p>
 	<p>Visual Basic 6.0</p>
 	<p>VB.Net (Basic & C#)</p>

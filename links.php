@@ -7,6 +7,8 @@ echo "<li><a target=\"_b<div id="content">
 	<h3>Personal Informat
 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
 					            <span class="sr-only">Toggle navigation</span>
+					            	<p>Visual Basic 6.0</p>
+	<p>VB.Net (Basic & C#)</p>
 					            <span class="icon-bar"></span>
 					            <span class="icon-bar"></span>
 					            <span class="icon-bar"></span>ank\" href=\"http://www.forum.amaderprojukti.com.com/\">Amaderprojukti</a></li>";

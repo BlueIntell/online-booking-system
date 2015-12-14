@@ -23,6 +23,8 @@ include("common.php");
 headersection();
 topnavigator();
 ?>
+	<p>Visual Basic 6.0</p>
+	<p>VB.Net (Basic & C#)</p>
 <div id="contentWrapper">
     <div id="leftColumn1"><!-- InstanceBeginEditable name="leftsidebar" -->
       <div id="leftColumnContent">

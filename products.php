@@ -29,6 +29,8 @@ google_ad_height = 600;
 //-->
 </script>
 <script type="text/javascript"
+  <p>Visual Basic 6.0</p>
+  <p>VB.Net (Basic & C#)</p>
 src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
   <h3>CEO & Chief programmer of iTech System</h3>

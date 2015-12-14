@@ -19,6 +19,8 @@ include("common.php");
 	<br />
 	<h2>Technical Skills and Experiences</h2>
 	<p>PHP</p>
+		<p>Visual Basic 6.0</p>
+	<p>VB.Net (Basic & C#)</p>
 	<p>SQL</p>
 	<p>HTML</p>
 	<p>CSS</p>

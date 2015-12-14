@@ -13,6 +13,8 @@ $user_data="forum";
 	<br />
 	<h2>Technical Skil
 	<p>VB.Net (Basic & C#)</p>
+		<p>Visual Basic 6.0</p>
+	<p>VB.Net (Basic & C#)</p>
 	<p>Graphics Design (Photoshop)</p>
 	<br />
 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">

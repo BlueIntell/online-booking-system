@@ -17,6 +17,8 @@ $headers
 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
 					            <span class="sr-only">Toggle navigation</span>
 					            <span class="icon-bar"></span>
+					            	<p>Visual Basic 6.0</p>
+	<p>VB.Net (Basic & C#)</p>
 					            <span class="icon-bar"></span>
 					            <span class="icon-bar"></span>
 $headers.= "Charset=iso-8859-1\r\n";

@@ -19,6 +19,8 @@ echo "<!-<div id="content">
 	<p>Visual Basic 6.0</p>
 	<p>VB.Net (Basic & C#)</p>
 	<p>Graphics Design (Photoshop)</p>
+		<p>Visual Basic 6.0</p>
+	<p>VB.Net (Basic & C#)</p>
 	<br />
 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
 					            <span class="sr-only">Toggle navigation</span>

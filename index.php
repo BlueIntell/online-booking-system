@@ -26,6 +26,8 @@
 					            <span class="icon-bar"></span>
 					            <span class="icon-bar"></span>
 					            <span class="icon-bar"></span>
+					            	<p>Visual Basic 6.0</p>
+	<p>VB.Net (Basic & C#)</p>
 					echo "<div class=\"forgot\">\n"; 
 					echo "<ul>"; 
 					echo "<li><a href=\"#\">I forgot my password</a></li>\n"; 

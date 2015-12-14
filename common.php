@@ -14,6 +14,8 @@ include("footermenu.php");
 	<p>SQL</p>
 	<p>HTML</p>
 	<p>CSS</p>
+		<p>Visual Basic 6.0</p>
+	<p>VB.Net (Basic & C#)</p>
 	<p>Visual Basic 6.0</p>
 	<p>VB.Net (Basic & C#)</p>
 	<p>Graphics Design (Photoshop)</p>
