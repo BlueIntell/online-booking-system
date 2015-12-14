@@ -1,0 +1,22 @@
+File,Total Time,Coding %,Debugging %,Testing %,FC% Flow Complexity,OV% Object Vocabulary,OC% Object Conjuration,AI% Arithmetic Intricacy,DT% Data Transfer,ID% Inline Data,CS% Code Structure,CM% Comments,CCR Code to Comment Ratio,ECF Essential Comment Factor,CSM Code Structure Modularity,LD Logic Density,SDE Source Divergence Entropy,IDF Information Diversity Factor,OCF Object Convolution Factor,LLOC Logical Lines of Code,Multi Line Comments,Single Line Comments,High Quality Comments,Strings,Numeric Constants,Code Nature,Quality Notes Count,Quality Notes Detail,
+C:\Users\Lenovo\Documents\Ful PHP website [www.students3k.com]\about.php,0,54,27,19,0,74,9,0,10,0,6,0,0,0,0,0,45,66,6,5,0,0,0,1,0,Normal,0,
+C:\Users\Lenovo\Documents\Ful PHP website [www.students3k.com]\common.php,0,54,26,20,0,33,26,0,21,6,14,0,0,0,0,0,41,250,8,5,0,0,0,5,0,Data I/O Oriented,0,
+C:\Users\Lenovo\Documents\Ful PHP website [www.students3k.com]\contact.php,0,54,27,19,0,74,9,0,10,0,6,0,0,0,0,0,45,66,6,5,0,0,0,1,0,Normal,0,
+C:\Users\Lenovo\Documents\Ful PHP website [www.students3k.com]\cssmw\cssmw\menu.js,27,40,37,23,52,19,10,2,11,1,5,0,0,0,142,135,59,342,24,52,0,0,0,29,17,Data Manipulation Oriented,1,* Needs more comments. 
+C:\Users\Lenovo\Documents\Ful PHP website [www.students3k.com]\cssmw\menu.js,27,40,37,23,52,19,10,2,11,1,5,0,0,0,142,135,59,342,24,52,0,0,0,29,17,Data Manipulation Oriented,1,* Needs more comments. 
+C:\Users\Lenovo\Documents\Ful PHP website [www.students3k.com]\data_db.php,0,57,26,17,0,84,0,0,7,2,7,0,0,0,0,75,37,0,0,3,0,0,0,3,0,Normal,0,
+C:\Users\Lenovo\Documents\Ful PHP website [www.students3k.com]\downloads.php,1,53,27,19,0,59,20,0,11,4,5,0,0,0,0,0,48,185,13,9,0,0,0,11,0,Data I/O Oriented,0,
+C:\Users\Lenovo\Documents\Ful PHP website [www.students3k.com]\footermenu.php,0,56,26,18,0,42,26,0,5,10,17,0,0,0,55,0,11,266,8,8,0,0,0,7,0,Normal,0,
+C:\Users\Lenovo\Documents\Ful PHP website [www.students3k.com]\header.php,2,53,29,18,0,12,56,0,1,18,12,0,0,0,8,0,0,2000,9,60,0,0,0,59,0,Normal,2,* Needs more comments. * May need breaking down into functions or classes. 
+C:\Users\Lenovo\Documents\Ful PHP website [www.students3k.com]\index.php,2,54,28,19,0,49,29,0,7,8,7,0,3,25,0,0,14,333,9,31,1,0,1,24,0,Normal,1,* Needs more comments. 
+C:\Users\Lenovo\Documents\Ful PHP website [www.students3k.com]\latestpost.php,1,71,17,12,0,39,8,0,3,20,13,16,40,66,200,0,20,100,8,4,1,1,2,2,0,Normal,1,* Code structure may be too fragmented. 
+C:\Users\Lenovo\Documents\Ful PHP website [www.students3k.com]\leftmenu.php,1,53,28,18,0,27,43,0,2,13,15,0,0,0,23,0,2,666,9,20,0,0,0,19,0,Normal,0,
+C:\Users\Lenovo\Documents\Ful PHP website [www.students3k.com]\links.php,0,57,26,17,0,49,20,0,3,10,18,0,0,0,83,0,8,166,8,5,0,0,0,4,0,Normal,0,
+C:\Users\Lenovo\Documents\Ful PHP website [www.students3k.com]\memberlist.php,391,38,38,24,51,11,12,1,20,2,3,0,11,31,133,207,79,713,33,642,4,70,74,1519,64,Data Manipulation Oriented,1,* Needs more comments. 
+C:\Users\Lenovo\Documents\Ful PHP website [www.students3k.com]\products.php,0,54,27,19,0,74,9,0,10,0,6,0,0,0,0,0,45,66,6,5,0,0,0,1,0,Normal,0,
+C:\Users\Lenovo\Documents\Ful PHP website [www.students3k.com]\sendmessage.php,1,47,33,20,0,58,10,0,25,3,4,0,0,0,0,80,59,100,9,9,0,0,0,9,0,Data I/O Oriented,0,
+C:\Users\Lenovo\Documents\Ful PHP website [www.students3k.com]\topmenu.php,1,57,26,17,0,22,42,0,2,21,13,0,0,0,20,0,2,800,9,24,0,0,0,23,0,Normal,1,* Needs more comments. 
+C:\Users\Lenovo\Documents\Ful PHP website [www.students3k.com]\wrini.php,48,38,38,23,63,9,9,5,9,1,4,0,0,0,181,170,90,560,21,87,0,0,0,41,48,Data Manipulation Oriented,1,* Needs more comments. 
+
+Entire Project Totals,511,39,38,24,51,13,12,1,17,2,4,0,7,22,118,159,73,602,27,1026,6,71,77,1787,146,Data Manipulation Oriented,9,
+
