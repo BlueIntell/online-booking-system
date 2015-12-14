@@ -6,22 +6,7 @@
    *
    */
   include("common.php");
-?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/trellian.dwt" codeOutsideHTMLIsLocked="false" -->
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<!-- InstanceBeginEditable name="metatags" -->
-<title>iTech System</title>
-<META NAME="description" CONTENT="Play DVD and any other media format, Convert DVD">
-<META NAME="keywords" CONTENT="Free dvd ripper, rip dvd, dvd converter, dvd to divx, dvd to mpeg, dvd to avi,DVD, PCDVD, PC-DVD, Media, Player, Region Selector, DVD Genie, Zone, Zones, Region, Regions, PowerDVD, Software, Cinemaster, Ravisent, Quadrent, Divicore, WinDVD, Xing, Win98, RPC, RPC1, RPC2, Review, Anamorphic, Widescreen, VCD, MPEG, MPEG2, MPEG4, DivX, XviD, Audio, Video, Reviews, Freeware, Software, Hardware">
-<?php
-headersection();
-topnavigator();
-?>
-<div id="contentWrapper">
-    <div id="leftColumn1"><!-- InstanceBeginEditable name="leftsidebar" -->
-      <div id="leftColumnContent">
+
 <?php
 					echo '<div id="login" >';
 					echo "<fieldset>\n";
