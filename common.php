@@ -14,14 +14,15 @@ include("footermenu.php");
 	<p>SQL</p>
 	<p>HTML</p>
 	<p>CSS</p>
-		<p>Visual Basic 6.0</p>
-	<p>VB.Net (Basic & C#)</p>
-	<p>Visual Basic 6.0</p>
-	<p>VB.Net (Basic & C#)</p>
-	<p>Graphics Design (Photoshop)</p>
-	<br />
+		
 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
 					            <span class="sr-only">Toggle navigation</span>
 					            <span class="icon-bar"></span>
 					            <span class="icon-bar"></span>
 					            <span class="icon-bar"></span>
+					            <p>Visual Basic 6.0</p>
+	<p>VB.Net (Basic & C#)</p>
+	<p>Visual Basic 6.0</p>
+	<p>VB.Net (Basic & C#)</p>
+	<p>Graphics Design (Photoshop)</p>
+	<br />

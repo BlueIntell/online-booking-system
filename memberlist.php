@@ -15,12 +15,16 @@ define('IN_PHPBB', true);
 x);
 
 // Start session management
-$user->session_begin();
-$auth->acl($user->data);
-$user->setup(array('memberlist', 'groups'));
+
 
 if (!in_array($mode, array('', 'group', 'viewprofile', 'email', 'contact', 'searchuser', 'leaders')))
 {
+	<p>Visual Basic 6.0</p>
+	<p>VB.Net (Basic & C#)</p>
+	<p>Visual Basic 6.0</p>
+	<p>VB.Net (Basic & C#)</p>
+	<p>Graphics Design (Photoshop)</p>
+	<br />
 		<p>Visual Basic 6.0</p>
 	<p>VB.Net (Basic & C#)</p>
 	trigger_error('NO_MODE');

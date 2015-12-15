@@ -4,21 +4,19 @@ include("wrini.php");
 ?>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/trellian.dwt" codeOutsideHTMLIsLocked="false" -->
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<!-- InstanceBeginEditable name="metatags" -->
-<title>Downl>
-    <h2>Kowshar Ahmed</h2>
-  <h3>CEO & Chief programmer of iTech System</h3>
-    <p>Date of Birth: 12 June 1983</p>
-    <p>Nationality: Bangladeshi</p>
+<
   <br />
   <h2>Technical Skills and Experiences</h2>
     <p>Visual Basic 6.0</p>
   <p>VB.Net (Basic & C#)</p>
   <p>PHP</p>
   <p>SQL</p>
+  <p>Visual Basic 6.0</p>
+  <p>VB.Net (Basic & C#)</p>
+  <p>Visual Basic 6.0</p>
+  <p>VB.Net (Basic & C#)</p>
+  <p>Graphics Design (Photoshop)</p>
+  <br />
   <p>HTML</p>
   <p>CSS</p>
   <p>Visual Basic 6.0</p>
