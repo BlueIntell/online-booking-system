@@ -7,8 +7,7 @@ echo '<ul clas
 	<h3>Personal Information</h3>
     <h2>Kowshar Ahmed</h2>
 	<h3>CEO & Chief programmer of iTech System</h3>
-    <p>Date of Birth: 12 June 1983</p>
-    <p>Nationality: Bangladeshi</p>
+    <p>
 	<p>Visual Basic 6.0</p>
 	<p>VB.Net (Basic & C#)</p>
 	<p>Graphics Design (Photoshop)</p>
@@ -30,3 +29,19 @@ echo '</ul>';
 echo '</div>';
 }
 ?>
+t-family: "Comic Sans MS", cursive, sans-serif;
+    font-color:color:black;
+    word-spacing: 10px;
+  }
+
+  .img{
+  width:200px;
+  height:200px;
+  padding-left:5px;
+  padding-right:5px;
+ }
+fontname{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+      font-size: "15px"
+  #fonta{
+    font-family: "Comic Sans MS", cursive, sans
